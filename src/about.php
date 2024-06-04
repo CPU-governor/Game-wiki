@@ -4,8 +4,15 @@
      	<title>About.php</title>
      </head>
      <body>
+     	<nav>
+   	    <ul>
+   	       <li><a href="#">Home</a></li>
+              <li><a href="#">Browse Games</a></li>
+              <li><a href="About.php">About</a></li>
+   	   </ul>
+   	</nav>
      	<h1>About</h1>
-    <p>A  site built to help me learn php and Mysql (mariaDb).</p>
+    <p>A  php based site with Mysql (mariaDb) integration created in 3days to help me learn php and sql.</p>
           <h1>Contact</h1>
           <p>Email: <a href="#">cpu.governor@gmail.com</a><br>
           	Github: <a href="#">github.com/gamewiki</a>
