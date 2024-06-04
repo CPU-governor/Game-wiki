@@ -11,8 +11,12 @@
               <li><a href="About.php">About</a></li>
    	   </ul>
    	</nav>
-   <h1>Game wiki</h2>
-   <p>A  php based site with Mysql (mariaDb) that </p>
+   <h1>Welcome to VGC wiki</h2>
+   <p>video Game Console (VGC) is a wiki for Game console documentation, Games manual, ...</p>
    <div class="outline">
+   	<h3>Browse our wiki</h3>
+   <h4>Home Consoles</h4>
+<h4>Handheld</h4>
+   </div>
    </body>
 </html>
