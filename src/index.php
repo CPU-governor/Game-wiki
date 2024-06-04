@@ -2,6 +2,7 @@
 <html>
    <head>
    	<title>Game wiki</title>
+   <link rel="style.css">
    </head>
    <body>
    	<nav>
