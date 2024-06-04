@@ -11,7 +11,7 @@
               <li><a href="About.php">About</a></li>
    	   </ul>
    	</nav>
-   <h1>Welcome to VGC wiki</h2>
+   <h1>Welcome to VGC wiki</h1>
    <p>video Game Console (VGC) is a wiki for Game console documentation, Games manual, ...</p>
    <div class="outline">
    	<h3>Browse our wiki</h3>
